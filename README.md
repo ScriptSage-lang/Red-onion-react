@@ -29,7 +29,7 @@ It is a single page application made with ReactJS, Tailwind CSS etc...
 
 ## 💻 Developed By
 
-![Developer PIC](https://avatars.githubusercontent.com/u/73340940?s=48&v=4)
+
 
 
 
