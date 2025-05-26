@@ -9,7 +9,7 @@ const AboutItem = ({ id, image, icon, title, description}) => {
             </div>
             {/* other info  */}
             <div className="flex mt-6 space-x-3 ">
-                {/* icon  */}
+               
                 <div>
                     <img src={icon} alt={title} className="w-36"/>
                 </div>
